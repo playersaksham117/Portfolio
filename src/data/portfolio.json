@@ -1,0 +1,166 @@
+{
+  "hero": {
+    "title": "Building Digital Experiences.",
+    "subtitle": "Saksham Arora",
+    "roles": [
+      "Security Analyst",
+      "AI Automation Expert",
+      "AppSec Engineer"
+    ],
+    "description": "Crafting secure, scalable, and stunning digital solutions that push the boundaries of what's possible."
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm a passionate developer and security enthusiast with a focus on building secure, scalable applications. With expertise spanning mobile and web development, cybersecurity, and AI automation, I bring a unique perspective to every project.",
+    "highlights": [
+      "3+ years of development experience",
+      "Cybersecurity specialist with hands-on penetration testing skills",
+      "AI & automation enthusiast building intelligent workflows",
+      "Open source contributor and continuous learner"
+    ],
+    "achievements": [
+      {
+        "label": "Years Experience",
+        "value": "3+"
+      },
+      {
+        "label": "Projects Completed",
+        "value": "5+"
+      },
+      {
+        "label": "CERTIFICATES",
+        "value": "Social Security Eng."
+      },
+      {
+        "label": "ACHIEVEMENTS",
+        "value": "3 Star Rating Hack to Secure App Development"
+      },
+      {
+        "label": "ACHIEVEMENTS",
+        "value": "Problem solving regarding security issues"
+      },
+      {
+        "label": "CERTIFICATES",
+        "value": "Mastering AI"
+      }
+    ],
+    "image": "/about/profile.jpg"
+  },
+  "skillCategories": {
+    "coreStack": {
+      "title": "Core Stack",
+      "skills": [
+        "Python",
+        "Flutter",
+        "Next.js",
+        "Firebase"
+      ],
+      "icon": "code"
+    },
+    "security": {
+      "title": "Cybersecurity",
+      "skills": [
+        "Penetration Testing",
+        "Security Auditing",
+        "Threat Analysis"
+      ],
+      "icon": "shield"
+    },
+    "tools": {
+      "title": "Tools & Platforms",
+      "skills": [
+        "Git",
+        "Linux",
+        "Figma"
+      ],
+      "icon": "tools"
+    },
+    "ai": {
+      "title": "AI & Automation",
+      "skills": [
+        "Prompt Engineering",
+        "AI Workflows",
+        "LLM Integration"
+      ],
+      "icon": "brain"
+    },
+    "databases": {
+      "title": "Databases",
+      "skills": [
+        "MySQL",
+        "SQLite",
+        "MongoDB"
+      ],
+      "icon": "database"
+    },
+    "languages": {
+      "title": "Languages",
+      "skills": [
+        "Python",
+        "Dart",
+        "Java",
+        "Bash"
+      ],
+      "icon": "terminal"
+    }
+  },
+  "skills": [
+    "Python",
+    "MySQL",
+    "Linux",
+    "Bash Scripting",
+    "AI Automations",
+    "Flutter",
+    "Next.js"
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "TracInvent",
+      "description": "Enterprise-grade inventory management system with real-time stock tracking, multi-warehouse support, and intelligent alerts.",
+      "techStack": [
+        "Python",
+        "Flutter",
+        "SQLite3",
+        "REST API"
+      ],
+      "liveUrl": "",
+      "githubUrl": "https://github.com/playersaksham117/tracinvent"
+    },
+    {
+      "id": "2",
+      "title": "Bill Ease POS+",
+      "description": "Modern point-of-sale system with credit management, customer tracking, and seamless payment integration.",
+      "techStack": [
+        "Python",
+        "Flutter",
+        "(Dart)",
+        "SQLite3"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Sales Dashboard",
+      "description": "•\tCompared invoices and payments between two statements.\n•\tIntegrated OCR reading for scanned PDFs and fuzzy matching.\n•\tIncluded anomaly detection and manual mismatch verification.",
+      "techStack": [
+        "Python",
+        "MS SQL Server",
+        "SQLITE3",
+        "Tensor"
+      ],
+      "liveUrl": "",
+      "githubUrl": ""
+    }
+  ],
+  "contact": {
+    "email": "arorasakshram627@gmail.com",
+    "phone": "+91 9216778883",
+    "cvUrl": "https://drive.google.com/file/d/1f8SQSv3j6NMNnvBRt_2k1yZ7CsQGIHIQ/view?usp=drive_link",
+    "certificatesUrl": "https://drive.google.com/drive/u/0/folders/1WhOPPyMB_iiPFRaN451gjyD3wsLH_pSC",
+    "socials": {
+      "github": "https://github.com/playersaksham117",
+      "linkedin": "http://www.linkedin.com/in/Plysaks108/",
+      "twitter": "https://twitter.com/sakshamarora"
+    }
+  }
+}
