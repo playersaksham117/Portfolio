@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import { getPortfolioData } from '@/lib/data';
-import { logoutAction } from '../actions';
 import DashboardContent from './DashboardContent';
 
 export const metadata: Metadata = {
@@ -37,14 +36,6 @@ export default async function DashboardPage() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
                 </svg>
               </a>
-              <form action={logoutAction}>
-                <button 
-                  type="submit" 
-                  className="bg-white/5 hover:bg-white/10 text-gray-400 hover:text-white border border-white/10 px-4 py-2 rounded-lg text-sm font-medium transition-all"
-                >
-                  Logout
-                </button>
-              </form>
             </div>
           </div>
         </div>
