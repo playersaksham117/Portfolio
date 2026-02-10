@@ -29,22 +29,14 @@
       },
       {
         "label": "CERTIFICATES",
-        "value": "Social Security Eng."
-      },
-      {
-        "label": "ACHIEVEMENTS",
-        "value": "3 Star Rating Hack to Secure App Development"
-      },
-      {
-        "label": "ACHIEVEMENTS",
-        "value": "Problem solving regarding security issues"
-      },
-      {
-        "label": "CERTIFICATES",
         "value": "Mastering AI"
+      },
+      {
+        "label": "ACHIEVEMENTS",
+        "value": "Mobile Pen Test"
       }
     ],
-    "image": "/about/profile.jpg"
+    "image": "https://img.freepik.com/premium-vector/letter-s-modern-colorful-logo-business-s-letter-identity-logo-vector-design_135595-1195.jpg"
   },
   "skillCategories": {
     "coreStack": {
@@ -154,7 +146,6 @@
   ],
   "contact": {
     "email": "arorasakshram627@gmail.com",
-    "phone": "+91 9216778883",
     "cvUrl": "https://drive.google.com/file/d/1f8SQSv3j6NMNnvBRt_2k1yZ7CsQGIHIQ/view?usp=drive_link",
     "certificatesUrl": "https://drive.google.com/drive/u/0/folders/1WhOPPyMB_iiPFRaN451gjyD3wsLH_pSC",
     "socials": {
